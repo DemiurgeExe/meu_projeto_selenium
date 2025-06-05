@@ -36,8 +36,8 @@ meu_projeto_selenium/ ├── tests/ │ └── login.py # Script de teste 
 
 Desenvolvido com dedicação por **Pedro Hugo**, em transição de carreira para QA, com foco em automação de testes e paixão por tecnologia.
 
-- GitHub: [https://github.com/PietroRugo](https://github.com/PietroRugo)
-- LinkedIn: [https://linkedin.com/in/pietro-rugo](https://linkedin.com/in/pietro-rugo)
+- GitHub: [https://github.com/PietroRugo](https://github.com/DemiurgeExe)
+- LinkedIn: [https://linkedin.com/in/pietro-rugo](https://linkedin.com/in/demiurgeexe)
 
 ---
 
