@@ -28,7 +28,7 @@ meu_projeto_selenium/ ├── tests/ │ └── login.py # Script de teste 
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repo.git
+   git clone https://github.com/DemiurgeExe/meu_projeto_selenium.git
 
 ---
 
