@@ -53,7 +53,7 @@ Desenvolvido com dedicação por **Pedro Hugo**, em transição de carreira para
 
 ## 📄 Licença
 
-Este projeto é livre para fins de estudo e aprendizado. Sinta-se à vontade para clonar, estudar, adaptar — mas lembre-se sempre de dar os devidos créditos 
+Este projeto é livre para fins de estudo e aprendizado. Sinta-se à vontade para clonar, estudar, adaptar 
 
 ---
 
